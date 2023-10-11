@@ -20,7 +20,7 @@ Learning Experience: Overall, this was a great learning experience because I got
 
 My Contribution: 
 
-Exploratory Data Analysis: Business Problem Statement, Handling of NA's
+Exploratory Data Analysis: Business Problem Statement, Handling of NA's, Description of Data
 
 Modeling: Business Problem Statement, Table of Contents, Cross-validation with Training set and Validation, Performance benchmark by majority class classifier, Interpreting Results
 
