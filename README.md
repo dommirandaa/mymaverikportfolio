@@ -9,18 +9,18 @@ Business Value of Solution: The project's findings provide Maverik with a solid 
 
 Projects:
 
->Exploratory Data Analysis: relationship between target and predictors through use of visualizations and data cleaning
+>Exploratory Data Analysis: relationship between target and predictors through use of visualizations and data cleaning.
 
->Modeling: use of cross validation, peformance benchmarks, random forest and gradient boosting, upsampling and downsampling, and additional feature engineering to boost model performance
+>Modeling: use of benchmarks of RMSE, Mean Absolute Error, and MAPE in XGB Model and LTSM Model.
 
 >Presentation: group documentation and outline of Maverik presentation with final notes
 
 Difficulties: 
-Learning Experience: Overall, this was a great learning experience because I got to experience first hand of analyzing a project from start to finish. I got to see the nuances that would prehibit further movement in a project and troublshoot on how to get out of the situation. This class allowed me to apply my analytical skills to business understandings, which will help with our next sponsor workshop.
+Learning Experience: Overall, this was a great learning experience because I got to experience really fine tuning a project from start to finish. I got to see the nuances that would prehibit further movement in a project and troublshoot on how to get out of the situation. This class allowed me to apply my analytical skills to business understandings, which will help with any future career endeavors
 
 My Contribution: 
 
 Exploratory Data Analysis: Business Problem Statement, Handling of NA's, Description of Data
 
-Modeling: Business Problem Statement, Table of Contents, Cross-validation with Training set and Validation, Performance benchmark by majority class classifier, Interpreting Results
+Modeling: Business Problem Statement, Training/Test set data preparation & cleaning, XGB Modeling
 
