@@ -25,3 +25,5 @@ Exploratory Data Analysis: Business Problem Statement, Handling of NA's, Descrip
 
 Modeling: Business Problem Statement, Training/Test set data preparation & cleaning, XGB Modeling
 
+Presenation to Maverik
+
